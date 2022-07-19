@@ -1,0 +1,24 @@
+Creating a site.....
+
+Use the table tag to help with items at the foot.
+you could embed the table tag with images or videos
+
+also you can place different contents and a side image 
+in different categories in a table.
+
+always advisable to put realted information into div's and sections.
+nb...when you are writing a class e.g about me for a div or section
+and it has two names, type "about-me" or "about_me" instead of "about me"
+
+use codetrain's website as guide
+
+
+
+
+
+
+
+
+
+
+ 
